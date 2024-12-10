@@ -5,7 +5,7 @@
            fetch="." /> 
 
   <remote  name="aosp" 
-           fetch="../android" /> 
+           fetch="../aosp" /> 
 
   <remote  name="x86" 
            fetch="../android-x86" /> 
