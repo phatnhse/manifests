@@ -16,7 +16,6 @@
            sync-j="4" /> 
 
   <!-- GitHub --> 
-  <project path="external/busybox" name="android_external_busybox" 
-  remote="github" revision="cm-14.0" /> 
+  <project name="build" remote="x86" revision="marshmallow-x86" />
 
 </manifest> 
